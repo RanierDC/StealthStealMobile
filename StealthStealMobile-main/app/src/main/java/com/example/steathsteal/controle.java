@@ -18,4 +18,5 @@ public class controle extends AppCompatActivity {
         Intent novaTela = new Intent(controle.this, Guia.class);
         startActivity(novaTela);
     }
+
 }

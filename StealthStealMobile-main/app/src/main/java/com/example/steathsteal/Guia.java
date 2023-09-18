@@ -14,6 +14,7 @@ public class Guia extends AppCompatActivity {
     Button BtnLevels;
     Button BtnOpn;
     Button BtnTuto;
+    Button BtnControl;
 
 
     @Override
@@ -24,6 +25,7 @@ public class Guia extends AppCompatActivity {
         BtnLevels = (Button) findViewById(R.id.BtnLevels);
         BtnOpn = (Button) findViewById(R.id.BtnOpn);
         BtnTuto = (Button) findViewById(R.id.BtnTuto);
+        BtnControl = (Button) findViewById(R.id.BtnControl);
     }
 
     private void vibrar(){
@@ -55,6 +57,13 @@ public class Guia extends AppCompatActivity {
 
     public void IrParaTelaOpcoes(View view){
         Intent novaTela = new Intent(Guia.this, Opcoes.class);
+        startActivity(novaTela);
+
+        vibrar();
+    }
+
+    public void IrParaTelaControle(View view){
+        Intent novaTela = new Intent(Guia.this, controle.class);
         startActivity(novaTela);
 
         vibrar();
