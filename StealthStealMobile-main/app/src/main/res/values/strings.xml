@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Steath Steal</string>
+    <string name="Nome">The Steath Steal</string>
+    <string name="BtnHist">História</string>
+    <string name="fases">Fases</string>
+    <string name="fase1">Fase 1</string>
+    <string name="fase2">Fase 2</string>
+    <string name="fase3">Fase 3</string>
+    <string name="controles">Controles</string>
+    <string name="btnVoltar">Voltar a página anterior</string>
+    <string name="BtnGuia">Guia</string>
+    <string name="HistoriaDoJogo">      Em um mundo onde os bastidores políticos estão envoltos em
+        traição e segredos, você assume o papel de Alex Mercer, um especialista em infiltração que agora se
+        dedica a expor a verdade por trás das fachadas dos poderosos. Sua missão é crítica: invadir
+        o escritório do influente político Robert Kincaid, líder da atual União Economica Mundial
+        (UEM) e recuperar pastas contendo evidências incriminadoras de suas operações corruptas
+        dentro de um cofre. A história começa com Alex Mercer sendo designado para se infiltrar em
+        um escritório de fachada secreta. Sua tarefa é evitar os guardas altamente treinados e
+        fortemente armados enquanto procura o edifício e furta as documentações.</string>
+    <string name="TituloOpções">Opções</string>
+    <string name="Titulo"></string>
+    <string name="HistoriaDoJogo2">     Após o bem-sucedido furto das pastas incriminadoras que revelam
+        as atividades corruptas do político influente, começou a vazar cuidadosamente informações
+        selecionadas das pastas para jornalistas investigativos independentes, contatos de ativistas
+        e grupos de transparência. Essas revelações provocaram um frenesi midiático, chamando a
+        atenção para as atividades corruptas de Kincaid.
+Conforme as informações se espalhavam como um incêndio digital, a pressão pública e internacional
+        sobreKincaid aumentou. Protestos massivos eclodiram nas ruas, clamando por sua renúncia e
+        julgamento.A exposição pública das ações corruptas de Robert enfraqueceu seu apoio político
+        e deixou muitos de seus aliados hesitantes.
+</string>
+    <string name="HistoriaDoJogo3">     Sentindo-se encurralado e com sua imagem arruinada, Kincaid
+        finalmente cedeu à pressão e anunciou sua renúncia do cargo. A investigação subsequente
+        revelou mais detalhes sobre suas atividades ilegais, resultando em acusações criminais
+        formais. A queda de Kincaid se tornou um símbolo de esperança para aqueles que ansiavam
+        por justiça e transparência no governo.
+A pós-furto das pastas incriminadoras não apenas mudou o destino de Alex Mercer, mas também serviu
+        como um lembrete poderoso de que a corrupção não pode permanecer escondida para sempre.
+        A história dele se tornou uma inspiração para aqueles que ousam enfrentar o sistema e
+        desafiara escuridão que muitas vezes envolve as figuras mais influentes.</string>
+
+    <string name="Guia1"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+        in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
+        sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum.</string>
+
+    <string name="TituloTutorial">Tutorial</string>
+    <string name="Opcões">Opcões</string>
+    <string name="tecla_W">W: Frente</string>
+    <string name="tecla_A">A: Esquerda</string>
+    <string name="Tecla_S">S: Atrás</string>
+    <string name="Tecla_D">D: Direita</string>
+    <string name="mouse">Mouse: Movimentação da camera</string>
+    <string name="fase">Fases</string>
+    <string name="audio">Áudio</string>
+
+    <string name="opcoes_do_jogo">Volume Geral: Ajuste o volume geral do jogo para a sua
+        preferência. Encontre o equilíbrio perfeito entre imersão e conforto auditivo.</string>
+
+    <string name="opcoesMusica">Volume da
+        Música: Defina o volume da trilha sonora épica que embala sua aventura. Mantenha a música
+        no nível ideal para se envolver na história.</string>
+
+    <string name="OpcoesdeGrafico">
+        Baixo: Para máquinas mais modestas. Experimente o jogo com gráficos simplificados para um
+        desempenhosuave.
+       </string>
+    <string name="Grafico">Gráficos</string>
+
+    <string name="Medio">Médio: O compromisso ideal entre qualidade gráfica e desempenho. Aprecie visuais
+        impressionantesenquanto mantém uma jogabilidade estável.</string>
+
+    <string name="ALta"> Alto: Desfrute da experiência de jogo definitiva com gráficos de alta
+        qualidade. Sinta-se
+        imerso em um mundo ricamente detalhado.</string>
+
+    <string name="Paragrafo1"> No cenário noturno, o espião se encontra nas sombras de um beco
+        escuro, observando atentamente o prédio que é seu alvo. Sua missão é crucial, ele sabe que
+        precisa entrar no edifício sem chamar a atenção dos seguranças que patrulham a rua, mas a
+        maioria das pessoas está indo para casa ou para a tranquilidade de bares e cafés.</string>
+    <string name="Paragrafo2"> Os primeiros obstáculos são mais ou menos sete seguranças que fazem
+        suas rondas pelas ruas proximas ao prédio. O espião percebe que terá que usar sua habilidade
+        de camuflagem e agilidade para passar por eles.</string>
+    <string name="Paragrafo3"> O espião espera o momento perfeito, quando os seguranças estão se
+        distanciando um do outro. Com a perícia de um mestre, ele se move silenciosamente e
+        rapidamente pela rua, deslizando-se pelas sombras e usando caixas de lixo e carros
+        estacionados como cobertura.</string>
+    <string name="Paragrafo4"> Chegando próximo ao prédio, ele dobra sua atenção observando a sua
+        volta, ele se move para a entrada, esgueirando-se pelas sombras.</string>
+    <string name="Paragrafo5"> Uma vez dentro do prédio, ele começa a sua verdadeira missão. Usando
+        suas habilidades. O espião sabe que a parte mais desafiadora ainda está por vir, mas ele
+        está confiante em suas habilidades e determinado a completar a missão com sucesso.</string>
+    <string name="F2P1">Primeiro, ele precisa encontrar a chave do sistema de segurança. Ele decide
+        se infiltrar no escritório, onde provavelmente a chave é mantida, usando sua habilidade de
+        camuflagem.</string>
+    <string name="F2P2">Ao entrar no escritório, ele vê a chave. Com agilidade, cuidadosamente, ele pega
+    a chave e a guarda em seu bolso, garantindo que não haja evidências de sua presença.</string>
+    <string name="F2P3">A próxima chave é guardada no outro escritório. Sabendo que é um local de alta
+    segurança, o espião espera pelo momento certo para entrar no escritório, enquanto todos estão
+    distraídos.</string>
+    <string name="F2P4">Lá dentro, ele localiza a chave. Novamente, ele se certifica de não deixar
+    rastros de sua presença e sai do escritório como se nunca estivesse estado lá.</string>
+    <string name="F2P5">Com ambas as chaves em mãos, ele se dirige para a sala do elevador, onde os
+    seguranças estão patrulhando. Usando suas habilidades de distração, ele desvia a atenção dos
+    seguranças, permitindo que ele insira as chaves e libere a passagem do elevador. Com um suspiro
+    de alívio, ele embarca no elevador, pronto para enfrentar os desafios que aguardam no próximo
+    andar.</string>
+
+    <string name="F3P1">Ele se move com habilidade e furtividade, adentrando um corredor iluminado
+        por luzes fracas.</string>
+    <string name="F3P2">Os seguranças estão em alerta, mas ele conta com sua perícia para passar
+        despercebido. </string>
+    <string name="F3P3">Com a planta do prédio em sua mente, o espião se dirige para a sala onde as
+        informações estão armazenadas, Abrindo a porta com a destreza de um especialista.Dentro da
+        sala, ele localiza a maleta.</string>
+    <string name="perfis">Créditos</string>
+    <string name="perfil">Perfil</string>
+    <string name="Nome1">Ranier</string>
+    <string name="Nome2">Caio</string>
+    <string name="nome3">PROGRAMADORES</string>
+    <string name="projeto">Projeto</string>
+    <string name="laranja">Laranja: A cor laranja indica aonde o jogador ira nascer</string>
+    <string name="Vermelho">Vermelho: A cor vermelha indica o objetivo do jogador</string>
+    <string name="Verde">Verde: A cor verde indica o limite do mapa</string>
+    <string name="Tutorial1">Tutorial fase 1</string>
+    <string name="Tutorial2">Tutorial fase 2 e 3</string>
+</resources>
