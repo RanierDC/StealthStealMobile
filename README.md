@@ -1,5 +1,5 @@
 # StealthStealMobile
-Nosso mobile é um app na intenção de facilitar a gameplay do jogador com os guias e apresentando as configurações de opções que tem no jogo, também contamos a história do jogo de forma detalhada, dizemos um pouco de como é cada fase, mostramos o guia do mapa para concluir o objetivo, indicando aonde o jogador nasce, os limites do mapa e aonde estão as chaves.
+Nosso mobile é um app na intenção de facilitar a gameplay do jogador com os guias e apresentando as configurações de opções que tem no jogo, também contamos a história do jogo de forma detalhada, dizemos um pouco de como é cada fase, mostramos o guia do mapa para concluir o objetivo, indicando aonde o jogador nasce, os limites do mapa e aonde estão as chaves. repositório sobre o nosso projeto mobile de Wiki do jogo: <a href="https://github.com/RanierDC/The-Stealth-Steal">Clique Aqui!</a>
 
 <h1 align= "center" > MENU </h1>
 <h5 align = "center">
